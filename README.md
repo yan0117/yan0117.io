@@ -10,6 +10,8 @@
 嘗試把程式學好努力精進自己，並且試著把老師教我們的一些日常小工具給妥善運用ex:github、blogger
 能夠在專研找到值得投入熱情的題目
 
+[I have a blogger](https://2021graphics.blogspot.com/search/label/08160723_%E9%84%A7%E6%99%A8%E8%A8%80)
+
 week2-1
 -------
 ```C
