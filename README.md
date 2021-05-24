@@ -1,11 +1,11 @@
 # yan0117.io
-初學者 First time
+Student
 
-我的興趣
+My Interest
 =======
 學習寫程式 聽歌 玩遊戲
 
-我的目標
+My Goal
 =======
 嘗試把程式學好努力精進自己，並且試著把老師教我們的一些日常小工具給妥善運用ex:github、blogger
 能夠在專研找到值得投入熱情的題目
